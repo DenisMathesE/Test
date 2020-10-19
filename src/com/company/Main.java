@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        char test = '9';
+        char test = '5';
 
         if ( test < '6' ) {
             System.out.println("меньше 6");
