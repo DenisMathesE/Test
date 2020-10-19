@@ -17,7 +17,8 @@ public class Main {
             System.out.println("рвано 6");
         }
 
-        System.out.println("line test 1");
+        System.out.println("this is line 1 from branche_1");
+
 
 //        ArrayList <String> deliveryCities = new ArrayList<>();
 //
