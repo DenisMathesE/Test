@@ -17,6 +17,8 @@ public class Main {
             System.out.println("рвано 6");
         }
 
+        System.out.println("line test 1");
+
 //        ArrayList <String> deliveryCities = new ArrayList<>();
 //
 //        deliveryCities.add("Chicago");
